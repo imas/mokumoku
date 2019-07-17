@@ -1,3 +1,37 @@
 # IM@Study もくもく会
 
 アイマスなプロデューサーさん、お疲れ様です！
+
+みなさん集まってアイマスに関連する開発や制作する機会ががハッカソンだけでは物足りないので、もくもく会を開きます！
+
+## 取り組む内容の例
+
+- [IM@Sparql](https://sparql.crssnky.xyz/imas/)を利用したアプリ/ゲームを作る
+- アイマスに関連したOSS活動をする
+- [imasbook](https://github.com/imas/imasbook)のための執筆をする
+
+# タイムテーブル
+
+| 時間   | 内容                            |
+| ------ | ------------------------------- |
+| -19:30 | 開場                            |
+| 19:30  | check-in: 自己紹介              |
+| 19:45  | もくもく                        |
+| 21:15  | Check-out: 取り組んだことの発表 |
+| 21:25  | 片付け、解散                    |
+
+# 会場
+
+株式会社BeerTails様
+
+# IM@Study (a.k.a IM@S Hack) とは
+
+アイドルを愛でる、アイマスにContributeする
+
+アイマスの二次創作界隈において、歌姫庭園とかミリフェスとかミリオンリーとかニコ動とかTwitterとかいろいろあるけれど、エンジニアを主な対象とした時にこれという機会がありません。
+
+私たちはみんなアイドルをプロデュースしています。 そして、コードの力によって技術の面からContributeすることができます。 この二つの側面を組み合わせて面白いこと、してみませんか。
+
+- ハッシュタグ: [\#imastudy](https://twitter.com/hashtag/imastudy?src=hash)
+- Slack: [imas-hack](https://imas-hack.herokuapp.com)
+- 企画の経緯など: [imas/mokumoku](https://github.com/imas/mokumoku)
