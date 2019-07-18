@@ -22,7 +22,7 @@
 
 # 会場
 
-株式会社BeerTails様
+株式会社BearTail様
 
 # IM@Study (a.k.a IM@S Hack) とは
 
