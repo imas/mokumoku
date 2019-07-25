@@ -23,6 +23,26 @@
 
 ## 株式会社Beartail様
 
+#
+
+![1](https://user-images.githubusercontent.com/8080435/61845941-26e59c00-aee0-11e9-841d-07896f99ddc3.png)
+
+#
+
+![2](https://user-images.githubusercontent.com/8080435/61845939-26e59c00-aee0-11e9-94b1-4d7691362344.png)
+
+#
+
+![3](https://user-images.githubusercontent.com/8080435/61845938-26e59c00-aee0-11e9-84ac-d958e7c91484.png)
+
+#
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/avnMFu7FrgQ?start=6465" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+アイマスハッカソン2018 東京の成果発表の 1:47:45 くらいより
+
+https://youtu.be/avnMFu7FrgQ?t=6445
+
 # 諸注意/案内
 
 - SSID/PWは...
