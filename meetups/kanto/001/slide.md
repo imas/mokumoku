@@ -74,7 +74,7 @@ https://youtu.be/avnMFu7FrgQ?t=6445
 
 # お知らせ
 
-(002回目から)connpassのグループを分けます。
-
-**http://imastudy-mokumoku.connpass.com**
+- (002回目から)connpassのグループを分けます。
+- **http://imastudy-mokumoku.connpass.com**
+- 会場提供してくださる企業さん募集しています。
 
