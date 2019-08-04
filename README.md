@@ -8,6 +8,9 @@
 
 私たちはみんなアイドルをプロデュースしています。 そして、コードやデザインの力によって技術の面からContributeすることができます。 この二つの側面を組み合わせて面白いこと、してみませんか。
 
-このリポジトリはアイマス関連のもくもく会を管理などをするためのリポジトリです。
+ハッカソンやエンジニアトークのイベントは https://imas.connpass.com もしくは https://github.com/imas/hackathon を確認してください。
 
-ハッカソンやエンジニアトークのイベントの管理などは https://github.com/imas/hackathon を参照してください。
+- Twitter ハッシュタグ: [\#imastudy](https://twitter.com/hashtag/imastudy?f=tweets&vertical=default) / [\#imas\_hack](https://twitter.com/hashtag/imas_hack?f=tweets&vertical=default) (アイマスハッカソン)
+- Slack: [imas-hack](https://imas-hack.herokuapp.com)
+- 企画: [imas/mokumoku](https://github.com/imas/mokumoku)
+- ハッカソンなど: [https://imas.connpass.com](https://imas.connpass.com)
