@@ -40,7 +40,7 @@
 
 ![beartail map](/meetups/kanto/001/images/beartail_map.png)
 
-![beartail building](/meetups/kanto/001/images/beartail_map.png)
+![beartail building](/meetups/kanto/001/images/beartail_building.jpeg)
 
 # 留意事項
 
