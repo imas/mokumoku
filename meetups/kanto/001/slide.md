@@ -55,7 +55,7 @@ https://youtu.be/avnMFu7FrgQ?t=6445
 # Check-in 自己紹介
 
 - お名前 ハンドルネーム
-- 担当/普段やっていること
+- 担当/複業で普段やっていること
 - 今日やること
 
 # mokumokuタイム
@@ -78,4 +78,3 @@ https://youtu.be/avnMFu7FrgQ?t=6445
   - **http://imastudy-mokumoku.connpass.com**
 - 会場提供してくださる企業さん募集しています。
 - もくもく会を運営するPも募集しています。
-
