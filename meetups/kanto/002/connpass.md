@@ -47,4 +47,3 @@
 - ハッシュタグ: [\#imas_mokumoku](https://twitter.com/hashtag/imas_mokumoku?src=hash)
 - Slack: [imas-hack](https://imas-hack.herokuapp.com)
 - 企画の経緯など: [imas/mokumoku](https://github.com/imas/mokumoku)
-
