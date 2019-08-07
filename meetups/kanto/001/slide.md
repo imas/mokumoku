@@ -38,7 +38,6 @@
 #
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/avnMFu7FrgQ?start=6465" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 アイマスハッカソン2018 東京の成果発表の 1:47:45 くらいより
 
 https://youtu.be/avnMFu7FrgQ?t=6445
@@ -77,5 +76,6 @@ https://youtu.be/avnMFu7FrgQ?t=6445
 
 - (002回目から)connpassのグループを分けます。
   - **http://imastudy-mokumoku.connpass.com**
+- 002回は9月上旬にやりたいなー()。
 - 会場提供してくださる企業さん募集しています。
 - もくもく会を運営するPも募集しています。
