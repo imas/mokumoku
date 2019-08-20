@@ -40,11 +40,21 @@
 
 # 会場
 
-会社名様
+[株式会社BearTail様](https://beartail.jp/)
 
-住所
+[東京都千代田区神田駿河台2‒2 御茶ノ水杏雲ビル5F](https://goo.gl/maps/r4c4brt3WAy)
 
-最寄り駅など
+最寄り駅: JR中央線御茶ノ水駅, 東京メトロ千代田線新御茶ノ水駅
+
+## ビルの入りかた
+
+20時まではビルの正面入口が開いていますので、正面からお入りください。
+
+20時以降はビルの正面入口が閉まってしまいますので、正面左奥の通用門を使用してください。
+
+![beartail map](/meetups/kanto/002/images/beartail_map.png)
+
+![beartail building](/meetups/kanto/002/images/beartail_building.jpeg)
 
 # 留意事項
 
