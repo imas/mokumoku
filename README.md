@@ -10,7 +10,8 @@
 
 ハッカソンやエンジニアトークのイベントは https://imas.connpass.com もしくは https://github.com/imas/hackathon を確認してください。
 
-- Twitter ハッシュタグ: [\#imastudy](https://twitter.com/hashtag/imastudy?f=tweets&vertical=default) / [\#imas\_hack](https://twitter.com/hashtag/imas_hack?f=tweets&vertical=default) (アイマスハッカソン)
+- Twitter ハッシュタグ: [\#imastudy](https://twitter.com/hashtag/imastudy?f=tweets&vertical=default) / [\#imas\_mokumoku](https://twitter.com/hashtag/imas_mokumoku?f=tweets&vertical=default)
 - Slack: [imas-hack](https://imas-hack.herokuapp.com)
 - 企画: [imas/mokumoku](https://github.com/imas/mokumoku)
-- ハッカソンなど: [https://imas.connpass.com](https://imas.connpass.com)
+- もくもく会イベント情報: [https://imastudy-mokumoku.connpass.com/](https://imastudy-mokumoku.connpass.com/)
+- ハッカソンなどイベント情報: [https://imas.connpass.com](https://imas.connpass.com)
