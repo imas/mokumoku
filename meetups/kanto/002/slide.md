@@ -1,4 +1,4 @@
-# アイマスmokumoku会XXX
+# アイマスmokumoku会002
 
 connpassヘッダー画像
 
