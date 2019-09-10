@@ -17,9 +17,30 @@ connpassヘッダー画像
 ### アイドルを愛でる
 ### アイマスに Contribute(貢献) する
 
+今年の12月に関西と関東でハッカソンが..?
+
 # 会場スポンサー :clap:
 
-## 会社名様
+## 株式会社Beartail様
+
+#
+
+![1](https://user-images.githubusercontent.com/8080435/61845941-26e59c00-aee0-11e9-841d-07896f99ddc3.png)
+
+#
+
+![2](https://user-images.githubusercontent.com/8080435/61845939-26e59c00-aee0-11e9-94b1-4d7691362344.png)
+
+#
+
+![3](https://user-images.githubusercontent.com/8080435/61845938-26e59c00-aee0-11e9-84ac-d958e7c91484.png)
+
+#
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/avnMFu7FrgQ?start=6465" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+アイマスハッカソン2018 東京の成果発表の 1:47:45 くらいより
+
+https://youtu.be/avnMFu7FrgQ?t=6445
 
 # 諸注意/案内
 
@@ -27,10 +48,11 @@ connpassヘッダー画像
 - お手洗いは...
 - 飲み物は...
 - 喫煙所は...
+- 途中で帰宅される方はスタッフに一声かけてください。
 - Twitterハッシュタグは `#imas_mokumoku` でつぶやいてください。
 - 会場のIPアドレスを使ってクローリングなど多量同時アクセスは禁止です。
-- 途中で帰宅される方はスタッフに一声かけてください。
 - コミュニケーションツールとして :slack: があります。
+- LV参加のPも現地に気を遣わずに喋ったりお手洗いに行って問題ありません。
 
 # Check-in 自己紹介
 
@@ -51,3 +73,10 @@ connpassヘッダー画像
 - Keep よかったこと/続けてほしいこと
 - Problem 課題に感じたこと/わるかったこと
 - Try 次回やってみたいこと/やってみたいと思ったこと
+
+# お知らせ
+
+- 003回は10月上旬に開催する予定です。
+- 会場提供してくださる企業さん募集しています。
+- もくもく会を運営するPも募集しています。
+- imasbook編集部では 週刊IM@Study 第4号 の章の執筆者を募集しています。
