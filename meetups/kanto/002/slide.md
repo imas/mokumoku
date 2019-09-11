@@ -42,6 +42,15 @@ connpassヘッダー画像
 
 https://youtu.be/avnMFu7FrgQ?t=6445
 
+#
+
+283プロも紙で経費精算してるらしい😰
+
+![4](https://user-images.githubusercontent.com/8080435/64662699-4599f500-d484-11e9-90d3-2fb4bc7cdf97.png)
+
+![5](https://user-images.githubusercontent.com/8080435/64662708-4d599980-d484-11e9-89dd-d6e413cb007d.png)
+
+
 # 諸注意/案内
 
 - SSID/PWは...
