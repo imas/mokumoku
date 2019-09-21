@@ -36,7 +36,7 @@ templateをもとにPullRequestを [imas/mokumoku](https://github.com/imas/mokum
 
 # 会場
 
-会社名様
+株式会社LIFULL様(調整中)
 
 住所
 
@@ -57,4 +57,3 @@ templateをもとにPullRequestを [imas/mokumoku](https://github.com/imas/mokum
 - ハッシュタグ: [\#imas_mokumoku](https://twitter.com/hashtag/imas_mokumoku?src=hash)
 - Slack: [imas-hack](https://imas-hack.herokuapp.com)
 - 企画の経緯など: [imas/mokumoku](https://github.com/imas/mokumoku)
-
