@@ -6,7 +6,7 @@
 
 ## 取り組む内容の例
 
-- [IM@Sparql](https://sparql.crssnky.xyz/imas/)を利用したアプリ/ゲームを作る
+- [IM@Sparql](https://sparql.crssnky.xyz/imas/)を使う練習をする
 - アイマスに関連したOSS活動をする
 - [imasbook](https://github.com/imas/imasbook)のための執筆をする
 
@@ -19,8 +19,6 @@ templateをもとにPullRequestを [imas/mokumoku](https://github.com/imas/mokum
 ## Check-in 取り組んだ結果の発表
 
 成果の項を更新してPullRequestを出します。
-
-口頭発表もあります。
 
 # タイムテーブル
 
@@ -36,11 +34,12 @@ templateをもとにPullRequestを [imas/mokumoku](https://github.com/imas/mokum
 
 # 会場
 
-株式会社LIFULL様(調整中)
+[株式会社LIFULL様](https://lifull.com/)
 
-住所
+[東京都千代田区麹町1丁目4−4](https://goo.gl/maps/c9fxRWoSDLeJnE7z8)
 
-最寄り駅など
+- 地下鉄半蔵門線 半蔵門駅 3b出口より徒歩2分
+- 地下鉄有楽町線 麹町駅3出口より徒歩6分
 
 # 留意事項
 

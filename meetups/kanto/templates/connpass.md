@@ -6,7 +6,7 @@
 
 ## 取り組む内容の例
 
-- [IM@Sparql](https://sparql.crssnky.xyz/imas/)を利用したアプリ/ゲームを作る
+- [IM@Sparql](https://sparql.crssnky.xyz/imas/)を使う練習をする
 - アイマスに関連したOSS活動をする
 - [imasbook](https://github.com/imas/imasbook)のための執筆をする
 
@@ -19,8 +19,6 @@ templateをもとにPullRequestを [imas/mokumoku](https://github.com/imas/mokum
 ## Check-in 取り組んだ結果の発表
 
 成果の項を更新してPullRequestを出します。
-
-口頭発表もあります。
 
 # タイムテーブル
 

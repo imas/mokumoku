@@ -28,7 +28,7 @@ connpassヘッダー画像
 
 # 会場スポンサー :clap:
 
-## 会社名様
+## 株式会社LIFULL様
 
 # 諸注意/案内
 
@@ -47,6 +47,8 @@ connpassヘッダー画像
 ### 自己紹介とやることの宣言を書いたPull Requestを出します。
 
 https://github.com/imas/mokumoku をforkして、 `meetups/kanto/003/p/` にある `template.md` を参考にファイルを作成してPullRequestを出してください。
+
+https://github.com/imas/mokumoku/pulls
 
 # Check-in
 
@@ -82,4 +84,4 @@ hackMDにみなさんで書きます。
   - 中旬のほうがみなさんの都合がよさそう。
 - 会場提供してくださる企業さん募集しています。
 - もくもく会を運営するPも募集しています。
-- imasbook編集部では12/14の技術書同人誌博覧会に向けた 週刊IM@Study 第4号 の章の執筆者を募集しています。
+- imasbook編集部では12/14の技術書同人誌博覧会に向けた 週刊IM@Study 第4号 の章やコラムの執筆者を募集しています。
