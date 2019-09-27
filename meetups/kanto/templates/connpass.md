@@ -14,11 +14,11 @@
 
 ## Check-in 自己紹介と取り組むことの発表
 
-templateをもとにPullRequestを [imas/mokumoku](https://github.com/imas/mokumoku) に出してください
+templateをもとにPull Requestを [imas/mokumoku](https://github.com/imas/mokumoku) に出してください
 
 ## Check-in 取り組んだ結果の発表
 
-成果の項を更新してPullRequestを出します。
+成果の項を更新してPull Requestを出します。
 
 # タイムテーブル
 
