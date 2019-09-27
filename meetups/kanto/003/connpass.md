@@ -34,11 +34,14 @@ templateをもとにPull Requestを [imas/mokumoku](https://github.com/imas/moku
 
 # 会場
 
-会社名様
+[株式会社LIFULL様](https://lifull.com/)
 
-住所
+[東京都千代田区麹町1丁目4−4](https://goo.gl/maps/c9fxRWoSDLeJnE7z8)
 
-最寄り駅など
+- 地下鉄半蔵門線 半蔵門駅 3b出口より徒歩2分
+- 地下鉄有楽町線 麹町駅3出口より徒歩6分
+
+エレベータで8階へ直接お越しください。
 
 # 留意事項
 
@@ -55,4 +58,3 @@ templateをもとにPull Requestを [imas/mokumoku](https://github.com/imas/moku
 - ハッシュタグ: [\#imas_mokumoku](https://twitter.com/hashtag/imas_mokumoku?src=hash)
 - Slack: [imas-hack](https://imas-hack.herokuapp.com)
 - 企画の経緯など: [imas/mokumoku](https://github.com/imas/mokumoku)
-

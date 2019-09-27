@@ -24,9 +24,11 @@ connpassヘッダー画像
 ### アイドルを愛でる
 ### アイマスに Contribute(貢献) する
 
+12/7(土)に関東関西合同でアイマスハッカソンがありそう
+
 # 会場スポンサー :clap:
 
-## 会社名様
+## 株式会社LIFULL様
 
 # 諸注意/案内
 
@@ -36,7 +38,7 @@ connpassヘッダー画像
 - 喫煙所は...
 - 途中で帰宅される方はスタッフに一声かけてください。
 - Twitterハッシュタグは `#imas_mokumoku` でつぶやいてください。
-- 会場のIPアドレスを使ってクローリングなど多量同時アクセスは禁止です。
+- 会場に迷惑がかかるような行為はおやめください
 - コミュニケーションツールとして :slack: があります。
 - LV参加のPも現地に気を遣わずに喋ったりお手洗いに行って問題ありません。
 
@@ -44,9 +46,13 @@ connpassヘッダー画像
 
 ### 自己紹介とやることの宣言を書いたPull Requestを出します。
 
-https://github.com/imas/mokumoku をforkして、 `meetups/kanto/XXX/p/` にある `template.md` を参考にファイルを作成してください。
+https://github.com/imas/mokumoku をforkして、 `meetups/kanto/003/p/` にある `template.md` を参考にファイルを作成してPullRequestを出してください。
+
+https://github.com/imas/mokumoku/pulls
 
 # Check-in
+
+https://github.com/imas/mokumoku/tree/master/meetups/kanto/003/p
 
 ひとり30秒-1分くらい
 
@@ -60,6 +66,8 @@ https://github.com/imas/mokumoku をforkして、 `meetups/kanto/XXX/p/` にあ�
 
 # Check-Out 成果発表
 
+https://github.com/imas/mokumoku/tree/master/meetups/kanto/003/p
+
 ひとり30秒-1分くらい
 
 # 振り返り(KPT)
@@ -69,3 +77,11 @@ hackMDにみなさんで書きます。
 - Keep よかったこと/続けてほしいこと
 - Problem 課題に感じたこと/わるかったこと
 - Try 次回やってみたいこと/やってみたいと思ったこと
+
+# お知らせ
+
+- 004回は11月中旬に開催する予定です。
+  - 中旬のほうがみなさんの都合がよさそう。
+- 会場提供してくださる企業さん募集しています。
+- もくもく会を運営するPも募集しています。
+- imasbook編集部では12/14の技術書同人誌博覧会に向けた 週刊IM@Study 第4号 の章やコラムの執筆者を募集しています。
