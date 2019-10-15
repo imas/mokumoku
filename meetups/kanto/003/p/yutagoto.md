@@ -1,5 +1,7 @@
 # .ごっち
 
+[Twitte](https://twitter.com/gggooottto)
+
 ## 担当
 
 - やよいとかいろいろ
@@ -11,6 +13,6 @@ im@studyスタッフしています。
 
 ## 今日やること
 
-hoge
+Slackコマンドを通して imasparqlを使ってみる
 
 ## 今日の成果
