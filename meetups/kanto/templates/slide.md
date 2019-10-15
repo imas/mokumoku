@@ -46,9 +46,13 @@ connpassヘッダー画像
 
 https://github.com/imas/mokumoku をforkして、 `meetups/kanto/XXX/p/` にある `template.md` を参考にファイルを作成してください。
 
+https://github.com/imas/mokumoku/pulls
+
 # Check-in
 
 ひとり30秒-1分くらい
+
+https://github.com/imas/mokumoku/tree/master/meetups/kanto/003/p
 
 # mokumokuタイム
 
@@ -61,6 +65,8 @@ https://github.com/imas/mokumoku をforkして、 `meetups/kanto/XXX/p/` にあ�
 # Check-Out 成果発表
 
 ひとり30秒-1分くらい
+
+https://github.com/imas/mokumoku/tree/master/meetups/kanto/003/p
 
 # 振り返り(KPT)
 

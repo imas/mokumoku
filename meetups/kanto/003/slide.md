@@ -24,7 +24,7 @@ connpassヘッダー画像
 ### アイドルを愛でる
 ### アイマスに Contribute(貢献) する
 
-12/7(土)に関東関西合同でアイマスハッカソンがありそう
+12/7(土)に関東関西合同でアイマスハッカソンがあるみたいです。
 
 # 会場スポンサー :clap:
 
@@ -63,6 +63,8 @@ https://github.com/imas/mokumoku/tree/master/meetups/kanto/003/p
 # Check-Out準備(1分)
 
 ### 成果を追記したPull Requestを出します。
+
+:twitter: のリンクを貼るだけでもOKです！
 
 # Check-Out 成果発表
 
