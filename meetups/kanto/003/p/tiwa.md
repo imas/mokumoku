@@ -16,3 +16,5 @@
 - ダジャレの分析
 
 ## 今日の成果
+
+https://github.com/ta9ya/maplepecans/blob/master/research/dajare_research.md
