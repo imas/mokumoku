@@ -16,3 +16,7 @@ im@studyスタッフしています。
 Slackコマンドを通して imasparqlを使ってみる
 
 ## 今日の成果
+
+成果出せました！！！
+
+https://twitter.com/gggooottto/status/1184439967885324289
