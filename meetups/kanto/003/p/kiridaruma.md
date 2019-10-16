@@ -18,3 +18,8 @@ imasp@rqlのshacl作成(の予定)
 
 ## 今日の成果
 
+- imasparqlにユニットと衣装に関する制約(型)を追加できた！
+    - https://github.com/imas/imasparql/pull/312
+    - cromisaさんがすぐ反応してくれて、すでにmerge済み
+- imasbook04を弄った
+    - けどよく分からないので、また帰ってやる
