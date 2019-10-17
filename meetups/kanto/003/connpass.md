@@ -41,7 +41,7 @@ templateをもとにPull Requestを [imas/mokumoku](https://github.com/imas/moku
 - 地下鉄半蔵門線 半蔵門駅 3b出口より徒歩2分
 - 地下鉄有楽町線 麹町駅3出口より徒歩6分
 
-エレベータで8階へ直接お越しください。
+エレベータで2階へ直接お越しください。
 
 # 留意事項
 
