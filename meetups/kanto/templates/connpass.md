@@ -9,6 +9,8 @@
 - [IM@Sparql](https://sparql.crssnky.xyz/imas/)を使う練習をする
 - アイマスに関連したOSS活動をする
 - [imasbook](https://github.com/imas/imasbook)のための執筆をする
+- アイマスハッカソンに向けた下準備をする
+- アイマスに関連したお絵かきをする
 
 アイマスに関連していればオールOKです！
 

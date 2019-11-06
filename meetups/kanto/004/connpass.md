@@ -9,6 +9,8 @@
 - [IM@Sparql](https://sparql.crssnky.xyz/imas/)を使う練習をする
 - アイマスに関連したOSS活動をする
 - [imasbook](https://github.com/imas/imasbook)のための執筆をする
+- アイマスハッカソンに向けた下準備をする
+- アイマスに関連したお絵かきをする
 
 アイマスに関連していればオールOKです！
 
@@ -34,11 +36,14 @@ templateをもとにPull Requestを [imas/mokumoku](https://github.com/imas/moku
 
 # 会場
 
-会社名様
+[株式会社LIFULL様](https://lifull.com/)
 
-住所
+[東京都千代田区麹町1丁目4−4](https://goo.gl/maps/c9fxRWoSDLeJnE7z8)
 
-最寄り駅など
+- 地下鉄半蔵門線 半蔵門駅 3b出口より徒歩2分
+- 地下鉄有楽町線 麹町駅3出口より徒歩6分
+
+エレベータで2階へ直接お越しください。
 
 # 留意事項
 
