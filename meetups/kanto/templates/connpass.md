@@ -18,7 +18,9 @@
 
 templateをもとにPull Requestを [imas/mokumoku](https://github.com/imas/mokumoku) に出してください
 
-## Check-in 取り組んだ結果の発表
+GitHubのアカウントを所持していない。Gitの操作がわからないなどがあれば当日申し付けてください。
+
+## Check-out 取り組んだ結果の発表
 
 成果の項を更新してPull Requestを出します。
 

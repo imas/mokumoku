@@ -18,7 +18,11 @@
 
 templateをもとにPull Requestを [imas/mokumoku](https://github.com/imas/mokumoku) に出してください
 
-## Check-in 取り組んだ結果の発表
+GitHubのアカウントを所持していない。Gitの操作がわからないなどがあれば当日申し付けてください。
+
+forkしたリポジトリを本家リポジトリに追従させる方法は [こちら](https://gist.github.com/YutaGoto/be875dd26142fd13cc0ec3234ba985ef) を参考にしてください
+
+## Check-out 取り組んだ結果の発表
 
 成果の項を更新してPull Requestを出します。
 
