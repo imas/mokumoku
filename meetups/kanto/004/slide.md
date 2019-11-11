@@ -5,7 +5,7 @@ connpassヘッダー画像
 - Check-inの自己紹介にプルリクを出すというのを増やしました。
 - 開会する前にプルリクを出しておくことをおすすめします。
 
-# アイマスmokumoku会XXX
+# アイマスmokumoku会004
 
 connpassヘッダー画像
 
@@ -23,6 +23,8 @@ connpassヘッダー画像
 
 ### アイドルを愛でる
 ### アイマスに Contribute(貢献) する
+
+12/7(土)に関東関西合同でアイマスハッカソンがあるみたいです。
 
 # 会場スポンサー :clap:
 
@@ -44,7 +46,7 @@ connpassヘッダー画像
 
 ### 自己紹介とやることの宣言を書いたPull Requestを出します。
 
-https://github.com/imas/mokumoku をforkして、 `meetups/kanto/XXX/p/` にある `template.md` を参考にファイルを作成してください。
+https://github.com/imas/mokumoku をforkして、 `meetups/kanto/004/p/` にある `template.md` を参考にファイルを作成してください。
 
 https://github.com/imas/mokumoku/pulls
 
