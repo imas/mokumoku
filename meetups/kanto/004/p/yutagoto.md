@@ -19,3 +19,7 @@ im@studyスタッフしています。
 https://twitter.com/gggooottto/status/1184439967885324289
 
 ## 今日の成果
+
+無事デプロイできました( ˘ω˘)
+
+https://twitter.com/gggooottto/status/1197486114786836480
