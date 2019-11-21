@@ -13,3 +13,6 @@
 - [ ] 採用されずにしょんぼりする
 
  ## 今日の成果
+- [x] [imas.dj](https://imas.dj)のダイマを書く
+- [x] [imasbook](https://github.com/imas/imasbook)にコラム寄稿する
+- [ ] 採用されずにしょんぼりする
