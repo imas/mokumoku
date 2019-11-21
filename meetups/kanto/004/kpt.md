@@ -1,11 +1,12 @@
 # Keep
 
-- hoge / P_name
+- [imas.dj](https://imas.dj)の更新を続ける / 🍢
 
 # Problem
 
-- fuga / P_name
+- 今月のイベント、４つほど見逃してた / 🍢
 
 # Try
 
-- Mayu / P_name
+- 地方のアイマスDJイベントに遠征する / 🍢
+- jekyllの雑なmdではなく、ちゃんとオープンデータで書きたいなあ / 🍢
