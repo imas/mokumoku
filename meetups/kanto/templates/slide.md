@@ -52,7 +52,7 @@ https://github.com/imas/mokumoku/pulls
 
 ひとり30秒-1分くらい
 
-https://github.com/imas/mokumoku/tree/master/meetups/kanto/003/p
+https://github.com/imas/mokumoku/tree/master/meetups/kanto/XXX/p
 
 # mokumokuタイム
 
@@ -66,7 +66,7 @@ https://github.com/imas/mokumoku/tree/master/meetups/kanto/003/p
 
 ひとり30秒-1分くらい
 
-https://github.com/imas/mokumoku/tree/master/meetups/kanto/003/p
+https://github.com/imas/mokumoku/tree/master/meetups/kanto/XXX/p
 
 # 振り返り(KPT)
 
