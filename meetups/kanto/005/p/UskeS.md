@@ -19,3 +19,7 @@
 
 ## 今日やること
 - Google Apps Scriptからim@sparqlを叩きたい
+
+## 今日の成果
+- 初めてim@spqrql叩けた！
+- sparqlよくわからん
