@@ -30,3 +30,10 @@
 
 
 ## 今日の成果
+
+- Electron入れた！
+- React Native for Web入れた！
+- [react-native-electron](https://github.com/PaulLeCam/react-native-electron)君〜〜〜死にそうなライブラリ〜〜〜😇
+- Electron消した
+
+結論: create-react-app実行して終わり＼(^o^)／
