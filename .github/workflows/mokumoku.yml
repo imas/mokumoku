@@ -1,0 +1,47 @@
+name: mokumoku
+on:
+  schedule:
+    - cron:  '1 21 1 * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.7.1
+      - name: create dir
+        run:
+          python create_meetup_dir.py
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: Add mokumoku File
+          committer: YutaGoto <YutaGoto@users.noreply.github.com>
+          author: YutaGoto <YutaGoto@users.noreply.github.com>
+          title: ':tada: アイマスもくもく会'
+          body: |
+            # アイマスもくもく会東京
+
+            ## 日程
+
+
+
+            ## 場所
+
+
+
+            ## ToDo
+
+            - [ ] 会場を調整する
+            - [ ] connpassのページをつくる
+            - [ ] connpassヘッダー絵を準備する
+          branch: add-mokumoku
+          branch-suffix: timestamp
+      - name: Check outputs
+        run: |
+          echo "Pull Request Number - ${{ env.PULL_REQUEST_NUMBER }}"

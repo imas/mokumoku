@@ -15,3 +15,9 @@
 - 企画: [imas/mokumoku](https://github.com/imas/mokumoku)
 - もくもく会イベント情報: [https://imastudy-mokumoku.connpass.com/](https://imastudy-mokumoku.connpass.com/)
 - ハッカソンなどイベント情報: [https://imas.connpass.com](https://imas.connpass.com)
+
+# 最新回のmeetupのディレクトリを作成する
+
+```sh
+$ python create_meetup_dir.py
+```
