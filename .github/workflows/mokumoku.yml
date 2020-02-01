@@ -1,7 +1,7 @@
 name: mokumoku
 on:
   schedule:
-    - cron:  '1 21 1 * *'
+    - cron: '1 21 1 * *'
 
 jobs:
   build:
