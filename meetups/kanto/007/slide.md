@@ -5,7 +5,7 @@ connpassヘッダー画像
 - Check-inの自己紹介にプルリクを出すというのを増やしました。
 - 開会する前にプルリクを出しておくことをおすすめします。
 
-# アイマスmokumoku会XXX
+# アイマスmokumoku会007
 
 connpassヘッダー画像
 
@@ -26,7 +26,7 @@ connpassヘッダー画像
 
 # 会場スポンサー :clap:
 
-## 会社名様
+## 株式会社LIFULL様
 
 # 諸注意/案内
 
@@ -44,7 +44,7 @@ connpassヘッダー画像
 
 ### 自己紹介とやることの宣言を書いたPull Requestを出します。
 
-https://github.com/imas/mokumoku をforkして、 `meetups/kanto/XXX/p/` にある `template.md` を参考にファイルを作成してください。
+https://github.com/imas/mokumoku をforkして、 `meetups/kanto/007/p/` にある `template.md` を参考にファイルを作成してください。
 
 https://github.com/imas/mokumoku/pulls
 
@@ -52,7 +52,7 @@ https://github.com/imas/mokumoku/pulls
 
 ひとり30秒-1分くらい
 
-https://github.com/imas/mokumoku/tree/master/meetups/kanto/XXX/p
+https://github.com/imas/mokumoku/tree/master/meetups/kanto/007/p
 
 # mokumokuタイム
 
@@ -66,7 +66,7 @@ https://github.com/imas/mokumoku/tree/master/meetups/kanto/XXX/p
 
 ひとり30秒-1分くらい
 
-https://github.com/imas/mokumoku/tree/master/meetups/kanto/XXX/p
+https://github.com/imas/mokumoku/tree/master/meetups/kanto/007/p
 
 # 振り返り(KPT)
 
