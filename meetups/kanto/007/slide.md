@@ -1,6 +1,4 @@
-# アイマスmokumoku会XXX
-
-connpassヘッダー画像
+# アイマスmokumoku会007
 
 # タイムテーブル
 
@@ -19,7 +17,7 @@ connpassヘッダー画像
 
 # 会場スポンサー :clap:
 
-## 会社名様
+## みなさんのお部屋
 
 # 諸注意/案内
 
@@ -37,7 +35,7 @@ connpassヘッダー画像
 
 ### 自己紹介とやることの宣言を書いたPull Requestを出します。
 
-https://github.com/imas/mokumoku をforkして、 `meetups/kanto/XXX/p/` にある `template.md` を参考にファイルを作成してください。
+https://github.com/imas/mokumoku をforkして、 `meetups/kanto/007/p/` にある `template.md` を参考にファイルを作成してください。
 
 https://github.com/imas/mokumoku/pulls
 
@@ -45,7 +43,7 @@ https://github.com/imas/mokumoku/pulls
 
 ひとり30秒-1分くらい
 
-https://github.com/imas/mokumoku/tree/master/meetups/kanto/XXX/p
+https://github.com/imas/mokumoku/tree/master/meetups/kanto/007/p
 
 # mokumokuタイム
 
@@ -59,7 +57,7 @@ https://github.com/imas/mokumoku/tree/master/meetups/kanto/XXX/p
 
 ひとり30秒-1分くらい
 
-https://github.com/imas/mokumoku/tree/master/meetups/kanto/XXX/p
+https://github.com/imas/mokumoku/tree/master/meetups/kanto/007/p
 
 # 振り返り(KPT)
 
@@ -68,3 +66,10 @@ hackMDにみなさんで書きます。
 - Keep よかったこと/続けてほしいこと
 - Problem 課題に感じたこと/わるかったこと
 - Try 次回やってみたいこと/やってみたいと思ったこと
+
+# お知らせ
+
+- 008回は4月中旬に開催する予定です。(今回と同様にオンラインの予定)
+- 4月にアイマスハッカソン2020 名古屋があるっぽい。
+  - けど、現地開催は延期になったみたい。
+- もくもく会を運営するPも募集しています。
