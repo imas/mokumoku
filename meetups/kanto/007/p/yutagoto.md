@@ -20,3 +20,5 @@ im@studyスタッフしています。
   - 前回は[封筒](https://medium.com/@gggooottto/%E3%83%9F%E3%83%AA%E3%82%B7%E3%82%BF%E3%81%AE%E5%B0%81%E7%AD%92%E3%82%92web%E3%81%A7%E5%86%8D%E7%8F%BE%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E8%A9%B1-b2b77291d736)を作って終わったので続きをします。
 
 ## 今日の成果
+
+- [カード](https://twitter.com/gggooottto/status/1240247708843003904?s=20)を作って終わりました
