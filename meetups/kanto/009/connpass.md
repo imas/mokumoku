@@ -16,15 +16,13 @@
 
 ## Check-in 自己紹介と取り組むことの発表
 
-templateをもとにPull Requestを [imas/mokumoku](https://github.com/imas/mokumoku) に出してください
+HackMDにもくもく会でやることを記述します
 
-GitHubのアカウントを所持していない。Gitの操作がわからないなどがあれば当日申し付けてください。
-
-forkしたリポジトリを本家リポジトリに追従させる方法は [こちら](https://gist.github.com/YutaGoto/be875dd26142fd13cc0ec3234ba985ef) を参考にしてください
+HackMDのチームの招待リンクはIM@StudyのSlackにあります。
 
 ## Check-out 取り組んだ結果の発表
 
-成果の項を更新してPull Requestを出します。
+成果の項を更新します
 
 # タイムテーブル
 
@@ -40,11 +38,11 @@ forkしたリポジトリを本家リポジトリに追従させる方法は [�
 
 # 会場
 
-会社名様
+今月もオンラインで行います。
 
-住所
+[Zoom](https://zoom.us/jp-jp/meetings.html)を使用するので予め使えるようにしておいてください。
 
-最寄り駅など
+当日の時間になったら部屋のリンクをSlackにてお知らせします。
 
 # 留意事項
 

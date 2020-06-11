@@ -16,11 +16,9 @@
 
 ## Check-in 自己紹介と取り組むことの発表
 
-templateをもとにPull Requestを [imas/mokumoku](https://github.com/imas/mokumoku) に出してください
+HackMDにもくもく会でやることを記述します
 
-GitHubのアカウントを所持していない。Gitの操作がわからないなどがあれば当日申し付けてください。
-
-forkしたリポジトリを本家リポジトリに追従させる方法は [こちら](https://gist.github.com/YutaGoto/be875dd26142fd13cc0ec3234ba985ef) を参考にしてください
+HackMDのチームの招待リンクはIM@StudyのSlackにあります。
 
 ## Check-out 取り組んだ結果の発表
 

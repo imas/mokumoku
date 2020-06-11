@@ -19,7 +19,7 @@ connpassヘッダー画像
 
 # 会場スポンサー :clap:
 
-## 会社名様
+## みなさんのお部屋
 
 # 諸注意/案内
 
@@ -35,17 +35,15 @@ connpassヘッダー画像
 
 # Check-in準備(1分)
 
-### 自己紹介とやることの宣言を書いたPull Requestを出します。
+https://hackmd.io/team/imas-mokumoku?nav=overview&tags=%5B%22009%22%2C%22checkin-out%22%5D
 
-https://github.com/imas/mokumoku をforkして、 `meetups/kanto/009/p/` にある `template.md` を参考にファイルを作成してください。
-
-https://github.com/imas/mokumoku/pulls
+HackMDでメモを作成します。テンプレートから作成すると比較的ラクです。
 
 # Check-in
 
 ひとり30秒-1分くらい
 
-https://github.com/imas/mokumoku/tree/master/meetups/kanto/009/p
+https://hackmd.io/team/imas-mokumoku?nav=overview&tags=%5B%22009%22%2C%22checkin-out%22%5D
 
 # mokumokuタイム
 
@@ -53,18 +51,29 @@ https://github.com/imas/mokumoku/tree/master/meetups/kanto/009/p
 
 # Check-Out準備(1分)
 
-### 成果を追記したPull Requestを出します。
+https://hackmd.io/team/imas-mokumoku?nav=overview&tags=%5B%22009%22%2C%22checkin-out%22%5D
 
 # Check-Out 成果発表
 
 ひとり30秒-1分くらい
 
-https://github.com/imas/mokumoku/tree/master/meetups/kanto/009/p
+https://hackmd.io/team/imas-mokumoku?nav=overview&tags=%5B%22009%22%2C%22checkin-out%22%5D
 
 # 振り返り(KPT)
 
 hackMDにみなさんで書きます。
 
+https://hackmd.io/Z0bCo0laQWGl0uWAxvzaRQ
+
 - Keep よかったこと/続けてほしいこと
 - Problem 課題に感じたこと/わるかったこと
 - Try 次回やってみたいこと/やってみたいと思ったこと
+
+# お知らせ
+
+- 010回は7月中旬に開催する予定です。(今回と同様にオンラインの予定)
+- 6月開催を忘れてしまい申し訳ないです。
+- もくもく会を運営するPも募集しています。
+- (いつもの旗振り役が忙しいというのもありますが)今年はEngineerTalksなさそう？
+  - オンラインでやりたい？LTだけ大会とか？
+  - 9月ころとか？

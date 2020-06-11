@@ -35,17 +35,15 @@ connpassヘッダー画像
 
 # Check-in準備(1分)
 
-### 自己紹介とやることの宣言を書いたPull Requestを出します。
+https://hackmd.io/team/imas-mokumoku?nav=overview&tags=%5B%22XXX%22%2C%22checkin-out%22%5D
 
-https://github.com/imas/mokumoku をforkして、 `meetups/kanto/XXX/p/` にある `template.md` を参考にファイルを作成してください。
-
-https://github.com/imas/mokumoku/pulls
+HackMDでメモを作成します。テンプレートから作成すると比較的ラクです。
 
 # Check-in
 
 ひとり30秒-1分くらい
 
-https://github.com/imas/mokumoku/tree/master/meetups/kanto/XXX/p
+https://hackmd.io/team/imas-mokumoku?nav=overview&tags=%5B%22XXX%22%2C%22checkin-out%22%5D
 
 # mokumokuタイム
 
@@ -53,13 +51,13 @@ https://github.com/imas/mokumoku/tree/master/meetups/kanto/XXX/p
 
 # Check-Out準備(1分)
 
-### 成果を追記したPull Requestを出します。
+https://hackmd.io/team/imas-mokumoku?nav=overview&tags=%5B%22XXX%22%2C%22checkin-out%22%5D
 
 # Check-Out 成果発表
 
 ひとり30秒-1分くらい
 
-https://github.com/imas/mokumoku/tree/master/meetups/kanto/XXX/p
+https://hackmd.io/team/imas-mokumoku?nav=overview&tags=%5B%22XXX%22%2C%22checkin-out%22%5D
 
 # 振り返り(KPT)
 
