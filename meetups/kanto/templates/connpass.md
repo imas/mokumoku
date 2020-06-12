@@ -7,6 +7,7 @@
 ## 取り組む内容の例
 
 - [IM@Sparql](https://sparql.crssnky.xyz/imas/)を使う練習をする
+- [im@stodon](https://github.com/imas/mastodon)のソースコードを読んで見る
 - アイマスに関連したOSS活動をする
 - [imasbook](https://github.com/imas/imasbook)のための執筆をする
 - アイマスハッカソンに向けた下準備をする
@@ -16,9 +17,11 @@
 
 ## Check-in 自己紹介と取り組むことの発表
 
-HackMDにもくもく会でやることを記述します
+[HackMD](https://hackmd.io/)にもくもく会でやることを記述します。
 
-HackMDのチームの招待リンクはIM@StudyのSlackにあります。
+もくもく会用のHackMDのチームがありますので、あらかじめアカウントを作成(無料)し
+
+Slackにてユーザ名をくださればチーム招待します。Slackへの招待リンクは最後のほうにあります。
 
 ## Check-out 取り組んだ結果の発表
 
