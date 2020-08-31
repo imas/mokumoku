@@ -1,11 +1,29 @@
+# imas_mokumoku 011 KPT
+
 # Keep
 
-- hoge / P_name
+- 画像で成果を出せた / MH35
+- アプデタスクできた！ / subroh_0508
+  - KotlinかわいいよKotlin
+- 当日参加者Pもいらしてわいわいできた。 / .ごっち
+- 進捗うめた。 / .ごっち
+- 参加者多かった / d.kataoka
+  - :tada: :wakaruwa: :waiwai:
+- なんらかの成果はでた / ばんじゅん
+- ほぼ(?)遅刻しなかった / ばんじゅん
 
 # Problem
 
-- fuga / P_name
+- 実開発は何もできず / MH35
+- 副業が忙しすぎて何もできなかった /d.kataoka
+- 動きもの+音ありの成果って共有むずい / ばんじゅん
+- 何度もZoomをつなぎなおす問題 / ごっち
+  - Meets…とおもったけど有料化＞＜
 
 # Try
 
-- Mayu / P_name
+- 今度は本当にサービス作りたい。なお価格 / MH35
+- ON@IRきてね〜 / subroh_0508
+    - cluster参加枠にも来てねー / .ごっち
+    - ClusterもSpatialChatもやったことないから楽しみだ / ばんじゅん
+- 別ツールを使うかなんか。。
