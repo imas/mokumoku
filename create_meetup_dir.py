@@ -4,12 +4,14 @@ import sys
 
 
 def replase_number(path_name, dir_name):
-    file_name = path_name + '/slide.md'
-    with open(file_name) as f:
-        data_lines = f.read()
-    data_lines = data_lines.replace("XXX", dir_name)
-    with open(file_name, mode="w") as f:
-        f.write(data_lines)
+    files = ['/slide.md', '/kpt.md', '/p.md']
+    for file in files:
+        file_name = path_name + file
+        with open(file_name) as f:
+            data_lines = f.read()
+        data_lines = data_lines.replace("XXX", dir_name)
+        with open(file_name, mode="w") as f:
+            f.write(data_lines)
     pass
 
 
