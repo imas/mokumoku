@@ -1,6 +1,6 @@
-# imas_mokumoku KPT XXX
+# imas_mokumoku KPT 018
 
-###### tags: `KPT` `XXX`
+###### tags: `KPT` `018`
 
 # Keep
 
