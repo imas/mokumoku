@@ -5,7 +5,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@master
       - name: Set up Python
@@ -17,10 +17,10 @@ jobs:
           python create_meetup_dir.py
       - name: Create Pull Request
         id: cpr
-        uses: peter-evans/create-pull-request@v2
+        uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: Add mokumoku File
+          commit-message: Add new mokumoku File
           committer: YutaGoto <YutaGoto@users.noreply.github.com>
           author: YutaGoto <YutaGoto@users.noreply.github.com>
           title: ':tada: アイマスもくもく会'
