@@ -1,4 +1,4 @@
-![header-image](/assets/images/header-960x180.png)
+![header-image](/assets/images/header.V2.png)
 
 # imas-mokumoku
 
