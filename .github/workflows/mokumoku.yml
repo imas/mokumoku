@@ -1,7 +1,7 @@
 name: mokumoku
 on:
   schedule:
-    - cron: '1 3 3 * *'
+    - cron: '1 3 1 * *'
 
 jobs:
   build:
@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: Set up Python
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v2
         with:
           python-version: '3.x'
       - name: create dir
@@ -29,15 +29,15 @@ jobs:
 
             ## 日程
 
-
+            20YY-MM-DD (E) 20:00-22:00
 
             ## 場所
 
-
+            オンライン(NeWork)
 
             ## ToDo
 
-            - [ ] 会場を調整する
+            - [x] 会場を調整する
             - [ ] connpassのページをつくる
             - [ ] connpassヘッダー絵を準備する
           branch: add-mokumoku
