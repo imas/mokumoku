@@ -4,7 +4,7 @@ import sys
 
 
 def replase_number(path_name, dir_name):
-    files = ['/slide.md', '/kpt.md', '/p.md']
+    files = ['/kpt.md', '/p.md']
     for file in files:
         file_name = path_name + file
         with open(file_name) as f:
