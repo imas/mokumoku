@@ -40,9 +40,9 @@ check-inで使用したページの成果の項目に追記してしてくださ
 
 今月もオンラインで行います。
 
-[NeWork](https://nework.app/about/)を使用する予定です。
+[Twitter Spaces](https://help.twitter.com/ja/using-twitter/spaces)を使用する予定です。不安定だったり会として不成立そうであれば[NeWork](https://nework.app/about/)に変更する予定です。
 
-あらかじめアカウントを登録していただけますと助かります。
+NeWorkに関してはあらかじめアカウントを登録していただけますと助かります。
 
 当日に招待リンクをIM@StudyのSlackでお知らせします。
 
