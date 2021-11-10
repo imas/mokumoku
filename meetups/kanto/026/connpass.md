@@ -10,6 +10,7 @@
 - [im@stodon](https://github.com/imas/mastodon)のソースコードを読んで見る
 - アイマスに関連したOSS活動をする
 - [imasbook](https://github.com/imas/imasbook)のための執筆をする
+- アドベントカレンダーのための記事を執筆する
 - アイマスに関連したお絵かきをする
 
 アイマス×(エンジニアリング or デザイン)に関連していればオールOKです！
