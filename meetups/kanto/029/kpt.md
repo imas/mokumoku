@@ -4,12 +4,14 @@
 
 # Keep
 
-- hoge / P_name
+- よく調べたら置換しなくて済んだのでよかった(?) / .ごっち
+- 時間内におわった！ / あろー
 
 # Problem
 
-- fuga / P_name
+- プライバシーポリシーはあれでいいのか謎 / あろー
+- 参加streaksが途絶えてしまった...くやしい / ばんじゅん
 
 # Try
 
-- Mayu / P_name
+- mokumoku開催[プルリクエストの自動化](https://github.com/imas/mokumoku/blob/main/.github/workflows/mokumoku.yml)で本文の日時も自動で入るようにしたい / .ごっち
