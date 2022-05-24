@@ -4,12 +4,13 @@
 
 # Keep
 
-- hoge / P_name
+- 今月は参加できた！ / あろー
+- 五月病に負けずに参加できた / ごっち
 
 # Problem
 
-- fuga / P_name
+- imasparqlのCDのやつ、とても大変そう... / あろー
 
 # Try
 
-- Mayu / P_name
+- Connpassトップ画像の絵がNework仕様なので、TwitterSpace仕様に描きなおす / ごっち
