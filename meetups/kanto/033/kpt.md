@@ -3,13 +3,19 @@
 ###### tags: `KPT` `033`
 
 # Keep
-
-- hoge / P_name
+- 定時で仕事を終えて、ご飯食べてから来れた / ak_hina
+- 参加できたぞ / ばんじゅん
+- Swift Chartsに挑戦しつつ、SwiftSparqlのasync/await対応もこの時間でできたのでラッキー / ばんじゅん
+- 3GBのCSVデータができあがった。 / .ごっち
 
 # Problem
-
-- fuga / P_name
+- 考えていたこと以外の作業を用意していなかった　/ ak_hina
+    - はやくおわるのはいいこと
 
 # Try
-
-- Mayu / P_name
+- im@sparqlやってる人多いし覚えるかなぁ……、だけど結局のところ実行環境が…… / ak_hina
+    - ピコピコプラネットスペースがあるぞ！  https://space.pikopikopla.net/
+        - よーねんきなので、つかいかたおぼえる……(,,Ծ‸Ծ,,) / ak_hina
+    - https://space.pikopikopla.net/query/93750a445e
+- 前回のTryにConnpassのトップ絵を描きなおすと書いたが描いていないのでやる。 / .ごっち
+    - Twitter Spaces 仕様の絵にする
