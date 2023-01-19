@@ -1,28 +1,28 @@
 name: mokumoku
 on:
   schedule:
-    - cron: '1 3 1 * *'
+    - cron: "1 3 1 * *"
+
+env:
+  TZ: "Asia/Tokyo"
 
 jobs:
   build:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@master
       - name: Set year
-        env:
-          TZ: 'Asia/Tokyo'
         run: echo "YEAR=$(date +'%Y')" >> $GITHUB_ENV
       - name: Set month
-        env:
-          TZ: 'Asia/Tokyo'
         run: echo "MONTH=$(date +'%m')" >> $GITHUB_ENV
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'
+          python-version: "3.x"
+      - name: Set day
+        run: echo "DAY=$(python get_third_thursday.py)" >> $GITHUB_ENV
       - name: create dir
-        run:
-          python create_meetup_dir.py
+        run: python create_meetup_dir.py
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v3
@@ -31,13 +31,13 @@ jobs:
           commit-message: Add new mokumoku File
           committer: YutaGoto <YutaGoto@users.noreply.github.com>
           author: YutaGoto <YutaGoto@users.noreply.github.com>
-          title: ':tada: アイマスもくもく会'
+          title: ":tada: アイマスもくもく会"
           body: |
             # アイマスもくもく会東京
 
             ## 日程
 
-            ${{ env.YEAR }}-${{ env.MONTH }}-DD (E) 20:00-22:00
+            ${{ env.YEAR }}-${{ env.MONTH }}-${{ env.DAY }} (木) 20:00-22:00
 
             ## 場所
 
@@ -45,7 +45,6 @@ jobs:
 
             ## ToDo
 
-            - [x] 会場を調整する
             - [ ] connpassのページをつくる
             - [ ] connpassヘッダー絵を準備する
           branch: add-mokumoku-${{ env.YEAR }}-${{ env.MONTH }}
