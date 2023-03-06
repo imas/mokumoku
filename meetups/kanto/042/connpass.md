@@ -37,15 +37,13 @@
 
 ## Check-out 成果発表
 
-check-inで使用したページの成果の項目に追記してしてください。
+check-inで使用したページの成果の項目に追記してください。
 
 # 会場
 
 今月もオンラインで行います。
 
-[Twitter Spaces](https://help.twitter.com/ja/using-twitter/spaces)を使用する予定です。もくもく会として不成立そうであれば別のサービスに変更する予定です。
-
-当日にTwitter SpacesのリンクをIM@StudyのSlackでお知らせします。
+[mocri](https://mocri.jp/)を使用する予定です。参加の際にアカウント登録を済ませて頂けると助かります。
 
 # IM@Study (a.k.a IM@S Hack) とは
 
@@ -53,7 +51,7 @@ check-inで使用したページの成果の項目に追記してしてくださ
 
 アイマスの二次創作界隈において、歌姫庭園とかミリフェスとかミリオンリーとかニコ動とかTwitterとかいろいろあるけれど、エンジニアを主な対象とした時にこれという機会がありません。
 
-私たちはみんなアイドルをプロデュースしています。 そして、コードの力によって技術の面からContributeすることができます。 この二つの側面を組み合わせて面白いこと、してみませんか。
+私たちはみんなアイドルをプロデュースしています。 そして、コードの力によって技術の面からContributeすることができます。この二つの側面を組み合わせて面白いことしてみませんか。
 
 - ハッシュタグ: [\#imas_mokumoku](https://twitter.com/hashtag/imas_mokumoku?src=hash)
 - Slack: [imas-hack](https://imas-hack.herokuapp.com)
