@@ -10,13 +10,13 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v3
       - name: Set year
         run: echo "YEAR=$(date +'%Y')" >> $GITHUB_ENV
       - name: Set month
         run: echo "MONTH=$(date +'%m')" >> $GITHUB_ENV
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: "3.x"
       - name: Set day
@@ -25,10 +25,10 @@ jobs:
         run: python create_meetup_dir.py
       - name: Create Pull Request
         id: cpr
-        uses: peter-evans/create-pull-request@v3
+        uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: Add new mokumoku File
+          commit-message: ":sparkles: Add ${{ env.YEAR }} ${{ env.MONTH }} mokumoku File"
           committer: YutaGoto <YutaGoto@users.noreply.github.com>
           author: YutaGoto <YutaGoto@users.noreply.github.com>
           title: ":tada: アイマスもくもく会"
@@ -41,7 +41,7 @@ jobs:
 
             ## 場所
 
-            オンライン(Twitter Spaces)
+            オンライン(mocri)
 
             ## ToDo
 
