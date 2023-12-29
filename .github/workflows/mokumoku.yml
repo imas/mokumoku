@@ -11,16 +11,16 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
-      - name: Set year
-        run: echo "YEAR=$(date +'%Y')" >> $GITHUB_ENV
-      - name: Set month
-        run: echo "MONTH=$(date +'%m')" >> $GITHUB_ENV
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=current::$(date +'%Y-%m')"
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
       - name: Set day
-        run: echo "DAY=$(python get_third_thursday.py)" >> $GITHUB_ENV
+        id: day
+        run: echo "::set-output name=day::$(python get_third_thursday.py)"
       - name: create dir
         run: python create_meetup_dir.py
       - name: Create Pull Request
@@ -28,7 +28,7 @@ jobs:
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: ":sparkles: Add ${{ env.YEAR }} ${{ env.MONTH }} mokumoku File"
+          commit-message: ":sparkles: Add ${{ steps.date.outputs.current }} mokumoku File"
           committer: YutaGoto <YutaGoto@users.noreply.github.com>
           author: YutaGoto <YutaGoto@users.noreply.github.com>
           title: ":tada: アイマスもくもく会"
@@ -37,7 +37,7 @@ jobs:
 
             ## 日程
 
-            ${{ env.YEAR }}-${{ env.MONTH }}-${{ env.DAY }} (木) 20:00-22:00
+            ${{ steps.date.outputs.current }}-${{ steps.day.outputs.day }} (木) 20:00-22:00
 
             ## 場所
 
@@ -47,7 +47,7 @@ jobs:
 
             - [ ] connpassのページをつくる
             - [ ] connpassヘッダー絵を準備する
-          branch: add-mokumoku-${{ env.YEAR }}-${{ env.MONTH }}
+          branch: add-mokumoku-${{ steps.date.outputs.current }}
       - name: Check outputs
         run: |
-          echo "Pull Request Number - ${{ env.PULL_REQUEST_NUMBER }}"
+          echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
