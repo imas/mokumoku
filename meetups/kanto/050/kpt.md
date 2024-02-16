@@ -4,12 +4,12 @@
 
 # Keep: よかったこと・続けていくこと
 
-- hoge / P_name
+- ソロでもくもく
 
 # Problem: よくなかったこと・やめること
 
-- fuga / P_name
+- ソロでもくもく
 
 # Try: 次回以降にやりたいこと
 
-- Mayu / P_name
+- Discordサーバーを準備する。
