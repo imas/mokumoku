@@ -1,15 +1,15 @@
-###### tags: `KPT` `050`
+###### tags: `KPT` `051`
 
-# imas_mokumoku KPT 050
+# imas_mokumoku KPT 051
 
 # Keep: よかったこと・続けていくこと
 
-- ソロでもくもく
+- hoge / P_name
 
 # Problem: よくなかったこと・やめること
 
-- ソロでもくもく
+- fuga / P_name
 
 # Try: 次回以降にやりたいこと
 
-- Discordサーバーを準備する。
+- Mayu / P_name
