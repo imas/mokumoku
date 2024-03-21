@@ -43,9 +43,9 @@ check-inで使用したページの成果の項目に追記してください。
 
 オンラインで行います。
 
-[Discord](https://discord.com/)を使用しますです。参加の際にアカウント登録を済ませて頂けると助かります。
+[Discord](https://discord.com/)を使用します。参加の際にアカウント登録を済ませて頂けると助かります。
 
-参加登録をした後のイベントページの「参加者への情報」欄にDiscordの招待リンクを記載します。
+参加登録をした後のイベントページの「参加者への情報」欄にDiscordの招待リンクが書かれています。
 
 # IM@Study (a.k.a IM@S Hack) とは
 
@@ -56,5 +56,4 @@ check-inで使用したページの成果の項目に追記してください。
 私たちはみんなアイドルをプロデュースしています。 そして、コードの力によって技術の面からContributeすることができます。この二つの側面を組み合わせて面白いことしてみませんか。
 
 - ハッシュタグ: [\#imas_mokumoku](https://twitter.com/hashtag/imas_mokumoku?src=hash)
-- Slack: [imas-hack](https://imas-hack.herokuapp.com)
 - 企画の経緯など: [imas/mokumoku](https://github.com/imas/mokumoku)
