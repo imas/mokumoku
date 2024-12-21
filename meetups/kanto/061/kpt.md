@@ -4,12 +4,16 @@
 
 # Keep: よかったこと・続けていくこと
 
-- hoge / P_name
+- PR消化できた！ / arrow2nd
+- hackmd内で雪が降った。 / .ごっち
+    - https://x.com/search?q=hackmd%20%E9%9B%AA&src=typed_query
+    - 日本語でも降るのすごい ☃️
 
 # Problem: よくなかったこと・やめること
 
-- fuga / P_name
+- `mocri.jp` のドメインが消滅してた。。 / .ごっち
+    - 🥺 / arrow2nd
 
 # Try: 次回以降にやりたいこと
 
-- Mayu / P_name
+- 来年もがんばります。
