@@ -14,6 +14,8 @@
 - [imasbook](https://github.com/imas/imasbook)のための執筆をする
 - モデリングをしてみる
 - 商業本・コミュニティ本を読む
+- 記事を書く
+- AIツールを使ってみる
 - アイマスに関連したお絵かきをする
 
 アイマス×(エンジニアリング || デザイン)に関連していればオールOKです！
@@ -25,7 +27,7 @@
 | 20:00 | Check-in: 開場 取り組む内容の記載        |
 | 20:15 | もくもく                                 |
 | 21:45 | Check-out: 取り組んだ結果の発表 振り返り |
-| 21:55 | 片付け、解散                             |
+| 22:00 | 解散                             |
 
 途中参加、途中退出しても問題ありません。
 
@@ -55,5 +57,5 @@ check-inで使用したページの成果の項目に追記してください。
 
 私たちはみんなアイドルをプロデュースしています。 そして、コードの力によって技術の面からContributeすることができます。この二つの側面を組み合わせて面白いことしてみませんか。
 
-- ハッシュタグ: [\#imas_mokumoku](https://twitter.com/hashtag/imas_mokumoku?src=hash)
+- ハッシュタグ: [\#imas_mokumoku](https://x.com/hashtag/imas_mokumoku?src=hash)
 - 企画の経緯など: [imas/mokumoku](https://github.com/imas/mokumoku)
