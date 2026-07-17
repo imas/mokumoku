@@ -4,12 +4,19 @@
 
 # Keep: よかったこと・続けていくこと
 
-- hoge / P_name
+- 進捗微妙だけど調査は進んだ / ばんじゅん
+- HIFのロゴがシンプルで助かった（？） / .ごっち
+- まずつくれたこと！/sapphire
 
 # Problem: よくなかったこと・やめること
 
-- fuga / P_name
+- 作る時に考えすぎてしまった事POCなので考えずにまずやる事が大事かなと思い/Sapphire
 
 # Try: 次回以降にやりたいこと
 
-- Mayu / P_name
+- DiscordのBotが動かなくなってそうなので、権限の設定を見直す。 / .ごっち
+- 作るアプリに何か隠しアイマス要素を入れたい！/Sapphire
+- もっとPにVision Proかぶせる / ばんじゅん
+
+https://engineers-anime.connpass.com/
+https://kawaii-driven-life.connpass.com/
